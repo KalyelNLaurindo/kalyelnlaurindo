@@ -1,16 +1,20 @@
-## Hi there 👋
+👨🏾‍💻 Prazer, me chamo Kalyel Laurindo!
 
-<!--
-**KalyelNLaurindo/kalyelnlaurindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Beginner Software Developer** | *Análise de Dados e Backend*  
+Atualmente focado em desenvolver habilidades técnicas para atuar na área de **Business Intelligence** e **Desenvolvimento**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Habilidades Técnicas**
+- **Linguagens**: Python | SQL  
+- **Ferramentas**: Excel, Sheets | Tableau | Power BI   
+- **Outros**: Docker | Git | Análise e Visualização de Dados  
+
+
+## 🎯 **Objetivo Profissional**
+Entregar resultados excepcionais, agregando valor ao usuário e explorando soluções inovadoras, colaborando ativamente com minha equipe e cultivando empatia para compreender melhor as necessidades ao meu redor.  
+
+---
+
+## 🔗 **Contatos e Redes Sociais**
+[LinkedIn](https://www.linkedin.com/in/kalyel-n-laurindo/) | [GitHub](https://github.com/KalyelNLaurindo) | [E-mail](mailto:kalyel.laurindo@gmail.com) 
