@@ -12,7 +12,7 @@ Atualmente focado em desenvolver habilidades técnicas para atuar na área de **
 
 
 ## 🎯 **Objetivo Profissional**
-Entregar resultados excepcionais, agregando valor ao usuário e explorando soluções inovadoras, colaborando ativamente com minha equipe e cultivando empatia para compreender melhor as necessidades ao meu redor.  
+Sou um profissional em acelerada ascensão na área de tecnologia, com forte foco em desenvolvimento de software, análise de dados e gestão estratégica de negócios. Com um ritmo de aprendizado acelerado e um planejamento estruturado, estou construindo uma carreira sólida que combina expertise técnica com visão de negócios e inovação.  
 
 ---
 
