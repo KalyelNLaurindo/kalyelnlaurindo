@@ -4,7 +4,7 @@
 
 Sou uma alma inqueieta que que aprende por prazer.
 
-🎯 Foco em Desenvolvimento Web FullStack (SPA e PWA), Engenharia ne Arctetura de Software.  
+🎯 Foco em Desenvolvimento Web FullStack (SPA e PWA), Engenharia ne Arquitetura de Software.  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
 🚀 A tecnologia mais que um trabalho é uma paixão. 
 🧠 Acredito na qualidade que entrega valor.
