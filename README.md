@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tecnologia%20aplicada%20onde%20importa,%20No%20seu%20problema!&fontSize=30&fontColor=FFFFFF&animation=fadeIn&descAlignY=50
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tecnologia%20aplicada%20onde%20importa%20No%20seu%20problema&fontSize=30&fontColor=FFFFFF&desc=Construindo%20soluções%20da%20tomada%20ao%20usuário&descAlignY=60" />
 
 <img align="right" height="60em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 
