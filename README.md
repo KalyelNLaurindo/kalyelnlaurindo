@@ -1,13 +1,13 @@
-<img align="right" height="150em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+<img align="right" height="100em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 
 # 👋 Hello, world! Eu sou Kalyel Nunes Laurindo
 
 Sou um desenvolvedor em formação, apaixonado por tecnologia, estratégia e análise de dados.
 
-🎯 Foco em Business Intelligence, Engenharia de Software e Desenvolvimento Web  
-🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-🚀 Em transição de carreira da segurança patrimonial para a tecnologia  
-🧠 Acredito na eficiência, automação e gestão de excelência  
+🎯 Foco em Desenvolvimento Web (SPA e PWA), Engenharia ne Arctetura de Software.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
+🚀 A tecnologia mais que um trabalho é uma paixão. 
+🧠 Acredito na qualidade que entrega valor.
 
 ---
 
