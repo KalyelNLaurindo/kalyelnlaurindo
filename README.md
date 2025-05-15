@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C75C5C,3D8DAE&text=Tecnologia%20aplicada%20onde%20importa%20No%20seu%20problema&fontSize=30&fontColor=FFFFFF&desc=Construindo%20soluções%20da%20tomada%20ao%20usuário&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C75C5C,3D8DAE&text=Technology%20applied%20where%20it%20matters%20In%20your%20problem&fontSize=30&fontColor=FFFFFF&desc=Building%20solutions%20from%20the%20socket%20to%20the%20user&descAlignY=60" />
 
 <img align="right" height="60em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 
-#  👷🏾‍♂️💻Hello, Stakeholders! Eu sou seu TI Problem Solver.
+# 👷🏾♂️💻 Hello, Stakeholders! I'm your IT Problem Solver.
 
-Sou uma alma inqueieta que que aprende por prazer.
+I am a restless soul who learns for pleasure.
 
-🎯 Foco em Desenvolvimento Web FullStack (SPA e PWA), Engenharia ne Arquitetura de Software.  
+🎯 Focused on FullStack Web Development (SPA and PWA), Software Engineering, and Architecture.  
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
+🎓 Student of Systems Analysis and Development. 
 
-🚀 A tecnologia mais que um trabalho é uma paixão. 
+🚀 Technology is more than a job—it's a passion. 
 
-🧠 Acredito na qualidade que entrega valor.
+🧠 I believe in quality that delivers value.
 
 ---
 
@@ -21,7 +21,7 @@ Sou uma alma inqueieta que que aprende por prazer.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -36,13 +36,7 @@ Sou uma alma inqueieta que que aprende por prazer.
 
 ---
 
-## 📈 Visitantes
-
-![Contador de visitantes](https://profile-counter.glitch.me/kalyel/count.svg)
-
----
-
-## 🌐 Me encontre:
+## 🌐 Find me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyel-n-laurindo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kalyel.laurindo@gmail.com)
