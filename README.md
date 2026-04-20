@@ -1,9 +1,11 @@
 <!-- CABEÇALHO COM BANNER PERSONALIZADO (cores: #FF808B e #73322C, texto branco) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF808B,73322C&text=Building%20AI‑powered%20solutions%20that%20solve%20real%20problems&fontSize=28&fontColor=FFFFFF&desc=From%20the%20socket%20to%20the%20user%20%E2%80%A2%20IA%20at%20the%20core&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF808B,73322C&text=Building%20AI‑powered%20solutions%20that%20solve%20real%20problems&fontSize=26&fontColor=FFFFFF&desc=From%20the%20socket%20to%20the%20user%20•%20IA%20at%20the%20core&descAlignY=60&descAlign=50" />
 
-<!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG -->
+<br/><br/>
+
+<!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG - URL CORRIGIDA -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF808B&center=true&vCenter=true&width=600&lines=Hello%2C+Stakeholders+%26+Engineers!+👋🏾;IA+SOLUTIONS+BUILDER;Analista+%26+Desenvolvedor+de+Software;Empreendedor+%7C+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF808B&center=true&vCenter=true&width=600&lines=Hello%2C+Stakeholders+%26+Engineers!+👋🏾;IA+SOLUTIONS+BUILDER;Analista+%26+Desenvolvedor+de+Software;Empreendedor+%7C+Freelancer" alt="Typing SVG" />
 </div>
 
 <br/>
