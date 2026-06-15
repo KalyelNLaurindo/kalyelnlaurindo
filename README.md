@@ -82,15 +82,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyel&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyel&theme=tokyonight&hide_border=true&border_radius=15" />
-</div>
-
----
-
 ## 📫 Let's connect
 
 <div align="center">
