@@ -1,43 +1,43 @@
 <!-- CABEÇALHO COM BANNER PERSONALIZADO (cores: #FF808B e #73322C, texto branco) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF808B,100:73322C&text=Building%20Practical%20Solutions&fontSize=28&fontColor=FFFFFF&desc=From%20the%20socket%20to%20the%20user%20•%20Software%20Engineer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF808B,100:73322C&text=Construire%20des%20solutions%20pratiques&fontSize=28&fontColor=FFFFFF&desc=De%20la%20prise%20à%20l'utilisateur%20•%20Ingénieur%20Logiciel&descAlignY=60&descAlign=50" />
 
 <br/>
 
 <div align="center">
-  <b>🇺🇸 English</b> | <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.ru.md">🇷🇺 Русский</a>
+  <a href="README.md">🇺🇸 English</a> | <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.es.md">🇪🇸 Español</a> | <b>🇫🇷 Français</b> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.ru.md">🇷🇺 Русский</a>
 </div>
 
 <br/>
 
-<!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG - URL CORRIGIDA -->
+<!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF808B&center=true&vCenter=true&width=600&lines=Hello%2C+Stakeholders+%26+Engineers!+👋🏾;IA+SOLUTIONS+BUILDER;Analista+%26+Desenvolvedor+de+Software;Empreendedor+%7C+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF808B&center=true&vCenter=true&width=600&lines=Bonjour%2C+Stakeholders+%26+Ingénieurs!+👋🏾;SOLUTIONS+BUILDER;Analyste+%26+Développeur+de+Logiciels;Entrepreneur+%7C+Freelance" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 👨🏾‍💻 About me
+## 👨🏾‍💻 À propos de moi
 
-🎯 **Analyst & Software Developer** | **Entrepreneur** | **Freelancer**  
-🧠 I learn for pleasure and solve problems end‑to‑end – from the socket to the user.  
-🚀 Technology applied with AI at its core transforms businesses and lives.  
-🌎 _Building solutions that matter._
+🎯 **Analyste et Développeur de Logiciels** | **Entrepreneur** | **Freelance**  
+🧠 J'apprends pour le plaisir et je résous des problèmes de bout en bout – de la prise à l'utilisateur.  
+🚀 La technologie appliquée avec l'IA au cœur transforme les entreprises et les vies.  
+🌎 _Bâtir des solutions qui comptent._
 
 ---
 
-## 🌟 My culture – Values that guide my work
+## 🌟 Ma culture – Valeurs qui guident mon travail
 
 |                                                                           |                                                                                   |                                                                        |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|   **🧠 Self‑accountability**<br/>_I own the problem until it's solved_    | **🎯 Problem = Opportunity**<br/>_Every challenge hides a chance to create value_ |   **🗣️ Human Dialogue**<br/>_Code is written by people, for people_    |
-|    **🤓 Nerd Thinking**<br/>_Deep curiosity drives elegant solutions_     |   **🤖 IA Solutions First**<br/>_AI is not an add‑on, it's the starting point_    | **📊 Data Driven View**<br/>_Decisions grounded on facts, not guesses_ |
-| **🫶 Tenderness in Value Delivery**<br/>_Deliver with care and precision_ |          **⚙️ Rational Execution**<br/>_Plan, execute, measure, repeat_           |                                                                        |
+|   **🧠 Auto‑responsabilité**<br/>_Je suis responsable du problème jusqu'à sa résolution_    | **🎯 Problème = Opportunité**<br/>_Chaque défi cache une opportunité de créer de la valeur_ |   **🗣️ Dialogue Humain**<br/>_Le code est écrit par des personnes, pour des personnes_    |
+|    **🤓 Nerd Thinking**<br/>_La curiosité profonde pousse à des solutions élégantes_     |   **🤖 Solutions IA en Priorité**<br/>_L'IA n'est pas un accessoire, c'est le point de départ_    | **📊 Vision Axée sur les Données**<br/>_Des décisions fondées sur des faits, pas sur des hypothèses_ |
+| **🫶 Délicatesse dans la Livraison**<br/>_Livrer avec soin et précision_ |          **⚙️ Exécution Rationnelle**<br/>_Planifier, exécuter, mesurer, répéter_           |                                                                        |
 
-> _Every line of code is a decision. Every decision reflects who we are._
+> _Chaque ligne de code est une décision. Chaque décision reflète ce que nous sommes._
 
 ---
 
-## 🛠️ Core Tech Stack & Focus of Study
+## 🛠️ Stack Principale & Focus d'Étude
 
 ### Back‑End
 ![Python](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&labelColor=2C2C2C&logo=python&logoColor=white)
@@ -59,7 +59,6 @@
 ### Data (BI / Data Science)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets--34A853?style=for-the-badge&labelColor=2C2C2C&logo=googlesheets&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker--4285F4?style=for-the-badge&labelColor=2C2C2C&logo=looker&logoColor=white)
-
 
 ### AI & Automation
 ![Gemini LLM](https://img.shields.io/badge/Gemini_LLM--8E75C2?style=for-the-badge&labelColor=2C2C2C&logo=googlegemini&logoColor=white)
@@ -103,38 +102,38 @@
 
 ---
 
-## 📐 Architecture, Methodologies & Languages
+## 📐 Architecture, Méthodologies & Langues
 
-### ⚙️ Software Engineering & Foundations
-![OOP](https://img.shields.io/badge/OOP-FF808B?style=for-the-badge&logo=blueprint&logoColor=white)
+### ⚙️ Génie Logiciel & Fondements
+![POO](https://img.shields.io/badge/POO-FF808B?style=for-the-badge&logo=blueprint&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-FF808B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Logic](https://img.shields.io/badge/Logic-FF808B?style=for-the-badge&logo=intel&logoColor=white)
+![Lógica de Programação](https://img.shields.io/badge/Logique-FF808B?style=for-the-badge&logo=intel&logoColor=white)
 ![CDD](https://img.shields.io/badge/CDD-FF808B?style=for-the-badge&logo=target&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-FF808B?style=for-the-badge&logo=codefactor&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-FF808B?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF808B?style=for-the-badge&logo=probot&logoColor=white)
 
-### 🌐 Architecture & Protocols
+### 🌐 Architecture & Protocoles
 ![Git](https://img.shields.io/badge/Git-73322C?style=for-the-badge&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-73322C?style=for-the-badge&logo=insomnia&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-73322C?style=for-the-badge&logo=insomnia&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI_/_CD-73322C?style=for-the-badge&logo=githubactions&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-73322C?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsserviços](https://img.shields.io/badge/Microservices-73322C?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 📊 Business Analysis & Problem Solving
+### 📊 Analyse d'Affaires & Résolution de Problèmes
 ![Scrum](https://img.shields.io/badge/Scrum-FF808B?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-FF808B?style=for-the-badge&logo=trello&logoColor=white)
 ![PDCA](https://img.shields.io/badge/PDCA-FF808B?style=for-the-badge&logo=loop&logoColor=white)
-![Ishikawa Diagram](https://img.shields.io/badge/Ishikawa_Diagram-FF808B?style=for-the-badge&logo=analytics&logoColor=white)
-![5 Whys](https://img.shields.io/badge/5_Whys-FF808B?style=for-the-badge&logo=question&logoColor=white)
+![Diagrama de Ishikawa](https://img.shields.io/badge/Ishikawa-FF808B?style=for-the-badge&logo=analytics&logoColor=white)
+![5 Porquês](https://img.shields.io/badge/5_Pourquoi-FF808B?style=for-the-badge&logo=question&logoColor=white)
 
-### 🗣️ Languages
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
-![English](https://img.shields.io/badge/English-Technical_/_Professional-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-Technical_/_Professional-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
+### 🗣️ Langues
+![Português](https://img.shields.io/badge/Portugais-Langue_Maternelle-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Inglês](https://img.shields.io/badge/Anglais-Technique_/_Professionnel-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Espanhol](https://img.shields.io/badge/Espagnol-Technique_/_Professionnel-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
-## 📫 Let's connect
+## 📫 Connectons-nous
 
 <div align="center">
   
