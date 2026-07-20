@@ -1,5 +1,5 @@
 <!-- CABEÇALHO COM BANNER PERSONALIZADO (cores: #FF808B e #73322C, texto branco) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF808B,100:73322C&text=Praktische%20Lösungen%20entwickeln&fontSize=28&fontColor=FFFFFF&desc=Vom%20Stecker%20bis%20zum%20Benutzer%20•%20Softwareentwickler&descAlignY=60&descAlign=50" />
+<img src="assets/icons/capsule_header_de.svg" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF808B&center=true&vCenter=true&width=600&lines=Hallo%2C+Stakeholders+%26+Entwickler!+👋🏾;SOLUTIONS+BUILDER;Software‑Analyst+%26+Entwickler;Unternehmer+%7C+Freelancer" alt="Typing SVG" />
+  <img src="assets/icons/typing_animation_de.svg" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -40,96 +40,96 @@
 ## 🛠️ Haupt-Stack & Studienschwerpunkt
 
 ### Back‑End
-![Python](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&labelColor=2C2C2C&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI--009688?style=for-the-badge&labelColor=2C2C2C&logo=fastapi&logoColor=white)
+![Python](assets/icons/badge_python.svg)
+![FastAPI](assets/icons/badge_fastapi.svg)
 
 ### Front‑End
-![React](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&labelColor=2C2C2C&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite--646CFF?style=for-the-badge&labelColor=2C2C2C&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--38B2AC?style=for-the-badge&labelColor=2C2C2C&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&labelColor=2C2C2C&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5--E34F26?style=for-the-badge&labelColor=2C2C2C&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3--1572B6?style=for-the-badge&labelColor=2C2C2C&logo=css3&logoColor=white)
+![React](assets/icons/badge_react.svg)
+![Vite](assets/icons/badge_vite.svg)
+![Tailwind CSS](assets/icons/badge_tailwind_css.svg)
+![Bootstrap](assets/icons/badge_bootstrap.svg)
+![HTML5](assets/icons/badge_html5.svg)
+![CSS3](assets/icons/badge_css3.svg)
 
 ### Databases & Knowledge Management
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL--316192?style=for-the-badge&labelColor=2C2C2C&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis--DC382D?style=for-the-badge&labelColor=2C2C2C&logo=redis&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian--7C4DFF?style=for-the-badge&labelColor=2C2C2C&logo=obsidian&logoColor=white)
+![PostgreSQL](assets/icons/badge_postgresql.svg)
+![Redis](assets/icons/badge_redis.svg)
+![Obsidian](assets/icons/badge_obsidian.svg)
 
 ### Data (BI / Data Science)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets--34A853?style=for-the-badge&labelColor=2C2C2C&logo=googlesheets&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker--4285F4?style=for-the-badge&labelColor=2C2C2C&logo=looker&logoColor=white)
+![Google Sheets](assets/icons/badge_google_sheets.svg)
+![Looker](assets/icons/badge_looker.svg)
 
 ### AI & Automation
-![Gemini LLM](https://img.shields.io/badge/Gemini_LLM--8E75C2?style=for-the-badge&labelColor=2C2C2C&logo=googlegemini&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code--D97706?style=for-the-badge&labelColor=2C2C2C&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex--000000?style=for-the-badge&labelColor=2C2C2C&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph--000000?style=for-the-badge&labelColor=2C2C2C&logo=langchain&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic--E92063?style=for-the-badge&labelColor=2C2C2C&logo=pydantic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI--4B0082?style=for-the-badge&labelColor=2C2C2C&logo=probot&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw--FF5722?style=for-the-badge&labelColor=2C2C2C&logo=gitkraken&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper--000000?style=for-the-badge&labelColor=2C2C2C&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n--FF6C37?style=for-the-badge&labelColor=2C2C2C&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama--000000?style=for-the-badge&labelColor=2C2C2C&logo=ollama&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML--CB171E?style=for-the-badge&labelColor=2C2C2C&logo=yaml&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ--FF6600?style=for-the-badge&labelColor=2C2C2C&logo=rabbitmq&logoColor=white)
+![Gemini LLM](assets/icons/badge_gemini_llm.svg)
+![Claude Code](assets/icons/badge_claude_code.svg)
+![Codex](assets/icons/badge_codex.svg)
+![LangGraph](assets/icons/badge_langgraph.svg)
+![Pydantic](assets/icons/badge_pydantic.svg)
+![CrewAI](assets/icons/badge_crewai.svg)
+![OpenClaw](assets/icons/badge_openclaw.svg)
+![Whisper](assets/icons/badge_whisper.svg)
+![n8n](assets/icons/badge_n8n.svg)
+![Ollama](assets/icons/badge_ollama.svg)
+![YAML](assets/icons/badge_yaml.svg)
+![RabbitMQ](assets/icons/badge_rabbitmq.svg)
 
 ### QA (Quality Assurance)
-![Pytest](https://img.shields.io/badge/Pytest--0A9EDC?style=for-the-badge&labelColor=2C2C2C&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright--2EAD33?style=for-the-badge&labelColor=2C2C2C&logo=playwright&logoColor=white)
+![Pytest](assets/icons/badge_pytest.svg)
+![Playwright](assets/icons/badge_playwright.svg)
 
 ### DevOps
-![Docker](https://img.shields.io/badge/Docker--2496ED?style=for-the-badge&labelColor=2C2C2C&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions--2088FF?style=for-the-badge&labelColor=2C2C2C&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx--009639?style=for-the-badge&labelColor=2C2C2C&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu--E95420?style=for-the-badge&labelColor=2C2C2C&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash--4EAA25?style=for-the-badge&labelColor=2C2C2C&logo=gnubash&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH--000000?style=for-the-badge&labelColor=2C2C2C&logo=openssh&logoColor=white)
-![Nano](https://img.shields.io/badge/Nano--000000?style=for-the-badge&labelColor=2C2C2C&logo=gnu&logoColor=white)
-![DuckDNS](https://img.shields.io/badge/DuckDNS--333333?style=for-the-badge&labelColor=2C2C2C&logo=duckduckgo&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron_Jobs--000000?style=for-the-badge&labelColor=2C2C2C&logo=linuxcontainers&logoColor=white)
+![Docker](assets/icons/badge_docker.svg)
+![GitHub Actions](assets/icons/badge_github_actions.svg)
+![Nginx](assets/icons/badge_nginx.svg)
+![Ubuntu](assets/icons/badge_ubuntu.svg)
+![Bash](assets/icons/badge_bash.svg)
+![SSH](assets/icons/badge_ssh.svg)
+![Nano](assets/icons/badge_nano.svg)
+![DuckDNS](assets/icons/badge_duckdns.svg)
+![Cron Jobs](assets/icons/badge_cron_jobs.svg)
 
 ### IDEs
-![Google Antigravity IDE](https://img.shields.io/badge/Google_Antigravity_IDE--4285F4?style=for-the-badge&labelColor=2C2C2C&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code--007ACC?style=for-the-badge&labelColor=2C2C2C&logo=visualstudio-code&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell--5391FE?style=for-the-badge&labelColor=2C2C2C&logo=powershell&logoColor=white)
-![Xcode 12](https://img.shields.io/badge/Xcode_12--1575F6?style=for-the-badge&labelColor=2C2C2C&logo=xcode&logoColor=white)
+![Google Antigravity IDE](assets/icons/badge_google_antigravity_ide.svg)
+![VS Code](assets/icons/badge_vs_code.svg)
+![PowerShell](assets/icons/badge_powershell.svg)
+![Xcode 12](assets/icons/badge_xcode_12.svg)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&labelColor=2C2C2C&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows_11--0078D4?style=for-the-badge&labelColor=2C2C2C&logo=windows&logoColor=white)
-![macOS Monterey](https://img.shields.io/badge/macOS_Monterey--000000?style=for-the-badge&labelColor=2C2C2C&logo=apple&logoColor=white)
+![Linux](assets/icons/badge_linux.svg)
+![Windows 11](assets/icons/badge_windows_11.svg)
+![macOS Monterey](assets/icons/badge_macos_monterey.svg)
 
 ---
 
 ## 📐 Architektur, Methodiken & Sprachen
 
 ### ⚙️ Software-Engineering & Grundlagen
-![POO](https://img.shields.io/badge/POO-FF808B?style=for-the-badge&logo=blueprint&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-FF808B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Lógica de Programação](https://img.shields.io/badge/Logik-FF808B?style=for-the-badge&logo=intel&logoColor=white)
-![CDD](https://img.shields.io/badge/CDD-FF808B?style=for-the-badge&logo=target&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-FF808B?style=for-the-badge&logo=codefactor&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-FF808B?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF808B?style=for-the-badge&logo=probot&logoColor=white)
+![POO](assets/icons/badge_poo.svg)
+![TDD](assets/icons/badge_tdd.svg)
+![Lógica de Programação](assets/icons/badge_l_gica_de_programa_o.svg)
+![CDD](assets/icons/badge_cdd.svg)
+![Clean Code](assets/icons/badge_clean_code.svg)
+![SOLID](assets/icons/badge_solid.svg)
+![Clean Architecture](assets/icons/badge_clean_architecture.svg)
 
 ### 🌐 Architektur & Protokolle
-![Git](https://img.shields.io/badge/Git-73322C?style=for-the-badge&logo=git&logoColor=white)
-![APIs REST](https://img.shields.io/badge/REST_APIs-73322C?style=for-the-badge&logo=insomnia&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI_/_CD-73322C?style=for-the-badge&logo=githubactions&logoColor=white)
-![Microsserviços](https://img.shields.io/badge/Mikroservices-73322C?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](assets/icons/badge_git.svg)
+![APIs REST](assets/icons/badge_apis_rest.svg)
+![CI/CD](assets/icons/badge_ci_cd.svg)
+![Microsserviços](assets/icons/badge_microsservi_os.svg)
 
 ### 📊 Geschäftsanalyse & Problemlösung
-![Scrum](https://img.shields.io/badge/Scrum-FF808B?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-FF808B?style=for-the-badge&logo=trello&logoColor=white)
-![PDCA](https://img.shields.io/badge/PDCA-FF808B?style=for-the-badge&logo=loop&logoColor=white)
-![Diagrama de Ishikawa](https://img.shields.io/badge/Ishikawa_Diagramm-FF808B?style=for-the-badge&logo=analytics&logoColor=white)
-![5 Porquês](https://img.shields.io/badge/5_Warum-FF808B?style=for-the-badge&logo=question&logoColor=white)
+![Scrum](assets/icons/badge_scrum.svg)
+![Kanban](assets/icons/badge_kanban.svg)
+![PDCA](assets/icons/badge_pdca.svg)
+![Diagrama de Ishikawa](assets/icons/badge_diagrama_de_ishikawa.svg)
+![5 Porquês](assets/icons/badge_5_porqu_s.svg)
 
 ### 🗣️ Sprachen
-![Português](https://img.shields.io/badge/Portugiesisch-Muttersprache-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Inglês](https://img.shields.io/badge/Englisch-Fachlich_/_Beruflich-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Espanhol](https://img.shields.io/badge/Spanisch-Fachlich_/_Beruflich-73322C?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Português](assets/icons/badge_portugu_s.svg)
+![Inglês](assets/icons/badge_ingl_s.svg)
+![Espanhol](assets/icons/badge_espanhol.svg)
 
 ---
 
@@ -137,13 +137,13 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyel-n-laurindo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADDRESS])
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548935009050)
+[![LinkedIn](assets/icons/badge_linkedin.svg)](https://www.linkedin.com/in/kalyel-n-laurindo/)
+[![Gmail](assets/icons/badge_gmail.svg)](mailto:[EMAIL_ADDRESS])
+[![WhatsApp](assets/icons/badge_whatsapp.svg)](https://wa.me/5548935009050)
 
 </div>
 
 ---
 
 <!-- RODAPÉ COM ONDA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF808B,100:73322C&section=footer" />
+<img src="assets/icons/capsule_footer.svg" />
