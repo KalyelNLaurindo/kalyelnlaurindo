@@ -1,5 +1,6 @@
-<!-- CABEÇALHO COM BANNER PERSONALIZADO (cores: #FF808B e #73322C, texto branco) -->
-<img src="assets/icons/capsule_header_ru.svg" />
+<p align="center">
+  <img src="assets/icons/capsule_header_ru.svg" alt="Header Banner" width="100%" />
+</p>
 
 <br/>
 
@@ -10,9 +11,9 @@
 <br/>
 
 <!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG -->
-<div align="center">
-  <img src="assets/icons/typing_animation_ru.svg" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/icons/typing_animation_ru.svg" alt="Typing Animation" />
+</p>
 
 <br/>
 
@@ -27,7 +28,7 @@
 
 ## 🌟 Моя культура – Ценности, направляющие мою работу
 
-|                                                                           |                                                                                   |                                                                        |
+| &nbsp; | &nbsp; | &nbsp; |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 |   **🧠 Личная ответственность**<br/>_Проблема принадлежит мне, пока она не решена_    | **🎯 Проблема = Возможность**<br/>_Каждый вызов скрывает шанс создать ценность_ |   **🗣️ Человеческий диалог**<br/>_Код пишется людьми и для людей_    |
 |    **🤓 Nerd Thinking**<br/>_Глубокое любопытство рождает элегантные решения_     |   **🤖 Решения с ИИ в приоритете**<br/>_ИИ — это не дополнение, а отправная точка_    | **📊 Опора на данные**<br/>_Решения на основе фактов, а не догадок_ |
@@ -135,15 +136,15 @@
 
 ## 📫 Связаться со мной
 
-<div align="center">
-  
-[![LinkedIn](assets/icons/badge_linkedin.svg)](https://www.linkedin.com/in/kalyel-n-laurindo/)
-[![Gmail](assets/icons/badge_gmail.svg)](mailto:[EMAIL_ADDRESS])
-[![WhatsApp](assets/icons/badge_whatsapp.svg)](https://wa.me/5548935009050)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalyel-n-laurindo/"><img src="assets/icons/badge_linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:[EMAIL_ADDRESS]"><img src="assets/icons/badge_gmail.svg" alt="Gmail" /></a>
+  <a href="https://wa.me/5548935009050"><img src="assets/icons/badge_whatsapp.svg" alt="WhatsApp" /></a>
+</p>
 
 ---
 
 <!-- RODAPÉ COM ONDA -->
-<img src="assets/icons/capsule_footer.svg" />
+<p align="center">
+  <img src="assets/icons/capsule_footer.svg" alt="Footer Wave" width="100%" />
+</p>

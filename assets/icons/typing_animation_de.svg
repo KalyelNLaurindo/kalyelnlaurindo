@@ -17,7 +17,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Hallo%2C+Stakeholders+%26+Entwickler!+👋🏾
+            Hallo, Stakeholders &amp; Entwickler! 👋🏾
         </textPath>
     </text>
         <path id='path1'>
@@ -31,7 +31,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            SOLUTIONS+BUILDER
+            SOLUTIONS BUILDER
         </textPath>
     </text>
         <path id='path2'>
@@ -45,7 +45,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            Software‑Analyst+%26+Entwickler
+            Software‑Analyst &amp; Entwickler
         </textPath>
     </text>
         <path id='path3'>
@@ -59,7 +59,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path3'>
-            Unternehmer+%7C+Freelancer
+            Unternehmer | Freelancer
         </textPath>
     </text>
 </svg>

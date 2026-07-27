@@ -10,9 +10,9 @@
 <br/>
 
 <!-- APRESENTAÇÃO DINÂMICA COM TYPING SVG -->
-<div align="center">
-  <img src="assets/icons/typing_animation_fr.svg" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/icons/typing_animation_fr.svg" alt="Typing Animation" />
+</p>
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 ## 🌟 Ma culture – Valeurs qui guident mon travail
 
-|                                                                           |                                                                                   |                                                                        |
+| &nbsp; | &nbsp; | &nbsp; |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 |   **🧠 Auto‑responsabilité**<br/>_Je suis responsable du problème jusqu'à sa résolution_    | **🎯 Problème = Opportunité**<br/>_Chaque défi cache une opportunité de créer de la valeur_ |   **🗣️ Dialogue Humain**<br/>_Le code est écrit par des personnes, pour des personnes_    |
 |    **🤓 Nerd Thinking**<br/>_La curiosité profonde pousse à des solutions élégantes_     |   **🤖 Solutions IA en Priorité**<br/>_L'IA n'est pas un accessoire, c'est le point de départ_    | **📊 Vision Axée sur les Données**<br/>_Des décisions fondées sur des faits, pas sur des hypothèses_ |
@@ -135,15 +135,15 @@
 
 ## 📫 Connectons-nous
 
-<div align="center">
-  
-[![LinkedIn](assets/icons/badge_linkedin.svg)](https://www.linkedin.com/in/kalyel-n-laurindo/)
-[![Gmail](assets/icons/badge_gmail.svg)](mailto:[EMAIL_ADDRESS])
-[![WhatsApp](assets/icons/badge_whatsapp.svg)](https://wa.me/5548935009050)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalyel-n-laurindo/"><img src="assets/icons/badge_linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:[EMAIL_ADDRESS]"><img src="assets/icons/badge_gmail.svg" alt="Gmail" /></a>
+  <a href="https://wa.me/5548935009050"><img src="assets/icons/badge_whatsapp.svg" alt="WhatsApp" /></a>
+</p>
 
 ---
 
 <!-- RODAPÉ COM ONDA -->
-<img src="assets/icons/capsule_footer.svg" />
+<p align="center">
+  <img src="assets/icons/capsule_footer.svg" alt="Footer Wave" width="100%" />
+</p>

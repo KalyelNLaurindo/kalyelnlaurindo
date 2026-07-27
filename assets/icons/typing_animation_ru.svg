@@ -17,7 +17,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Привет%2C+Стейкхолдеры+%26+Инженеры!+👋🏾
+            Привет, Стейкхолдеры &amp; Инженеры! 👋🏾
         </textPath>
     </text>
         <path id='path1'>
@@ -31,7 +31,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            SOLUTIONS+BUILDER
+            SOLUTIONS BUILDER
         </textPath>
     </text>
         <path id='path2'>
@@ -45,7 +45,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            Аналитик+%26+Разработчик+ПО
+            Аналитик &amp; Разработчик ПО
         </textPath>
     </text>
         <path id='path3'>
@@ -59,7 +59,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path3'>
-            Предприниматель+%7C+Фрилансер
+            Предприниматель | Фрилансер
         </textPath>
     </text>
 </svg>
